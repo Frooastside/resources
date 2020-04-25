@@ -1,0 +1,32 @@
+language.code=de_DE
+language.name=Deutsch
+
+error.session.notactivated=Dein Account wurde noch nicht aktiviert und kann nicht in online Spielen verwendet werden.
+error.session.authentication=Ein Fehler ist beim anmelden aufgetreten: 
+
+error.lq.add=Beim Hinzufügen des Elements ist ein Fehler aufgetreten.
+error.lq.model.processID=Beim Laden des Models ist ein Fehler aufgetreten. ProcessID: 
+
+error.texture.loading.info=Ein Fehler ist beim laden der Textur Information aufgetreten: 
+error.texture.loading=Ein Fehler ist beim laden der Textur aufgetreten: 
+error.texture.anisotropic=Anisotropisches Filtern wird nicht unterstützt.
+error.texture.mirror=Texturen spiegelung wird nicht unterstützt.
+
+error.font.metaFile=Ein Fehler ist beim laden der Schriftart aufgetreten.
+
+error.shader.fileLoading=Ein Fehler ist beim laden des Shaders aufgetreten.
+error.shader.compiling=Ein Fehler ist beim kompilieren des Shaders aufgetreten. Shader: 
+error.shader.uniformLocation.1=Die Variable "
+error.shader.uniformLocation.2=" wurde nicht gefunden. Shader: 
+
+error.network.exceptionCaught=Ein Netzwerk Fehler ist aufgetreten: 
+error.network.disconnect.protocolId.clientoutdated=Verbindung Fehlgeschlagen: Der Client ist veraltet.
+error.network.disconnect.protocolId.serveroutdated=Verbindung Fehlgeschlagen: Der Server ist veraltet.
+error.network.disconnect.connectionState.unsuportedConnectionState=Verbindung Fehlgeschlagen: Der angeforderte Verbindungsstatus wird nicht unterstützt.
+error.network.connectionState.packet=Ein Fehler ist aufgetreten. Dieses Packet wurde bereits zugewiesen. Verbindungsstatus: 
+error.network.login.verifytoken=Verifizierungsschlüssel konnte nicht verifiziert werden.
+
+lq.done=Fertig
+
+network.disconnect.safe=Alle server verbindungen werden geschlossen.
+network.disconnect.channelInactive=Dieser Kanal wurde geschlossen.

@@ -1,0 +1,32 @@
+language.code=en_US
+language.name=English
+
+error.session.notactivated=Your account is not activated and cannot be used in online games.
+error.session.authentication=An error occurred while logging in: 
+
+error.lq.add=An error occurred while adding the item.
+error.lq.model.processID=An error occurred while loading the model. ProcessID: 
+
+error.texture.loading.info=An error occurred while loading the Image Information: 
+error.texture.loading=An error occurred while loading the Image: 
+error.texture.anisotropic=Anisotropic Filtering is not supported.
+error.texture.mirror=Texture mirroring is not supported.
+
+error.font.metaFile=An error occurred while reading the meta file.
+
+error.shader.fileLoading=An error occurred while reading the shader.
+error.shader.compiling=An error occurred while compiling the shader. Shader: 
+error.shader.uniformLocation.1=No uniform variable called "
+error.shader.uniformLocation.2=" found for shader program 
+
+error.network.exceptionCaught=A network error occurred: 
+error.network.disconnect.protocolId.clientoutdated=Connection Failed: Client is outdated.
+error.network.disconnect.protocolId.serveroutdated=Connection Failed: Server is outdated.
+error.network.disconnect.connectionState.unsuportedConnectionState=Connection Failed: The Requested Connection State is unsuported.
+error.network.connectionState.packet=An error occurred. The packet is already assigned to the Connection State 
+error.network.login.verifytoken=Verify Token couldn't be verified.
+
+lq.done=Done
+
+network.disconnect.safe=Terminate network connections.
+network.disconnect.channelInactive=Stopped this Channel.
